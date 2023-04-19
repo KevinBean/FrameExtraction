@@ -8,8 +8,6 @@ A code that extract frames from video.
  # Usage
  Use the export.py
  Setup your video path in config.py.
-
- # Problems/Bugs
- - If you have importing errors, install the packages manually.
  
-Changed from: https://github.com/doxyf/PowerVid
+# Changed from
+https://github.com/doxyf/PowerVid
