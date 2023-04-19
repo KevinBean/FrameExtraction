@@ -1,5 +1,6 @@
 # PowerVid
-A code that convert video into powerpoint.
+A code that extract frames from video.
+- [ ] convert video into powerpoint.
 
 # Setup
  Install Python packages:
